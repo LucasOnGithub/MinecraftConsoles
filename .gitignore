@@ -433,4 +433,6 @@ build/*
 
 # Local saves
 Minecraft.Client/Saves/
-pull.bat
+
+# Visual Studio Per-User Config
+*.user
